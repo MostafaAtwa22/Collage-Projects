@@ -1,1 +1,1 @@
-#Ther is My Team project At the collage journy
+# There are My Team projects At the our collage journy
