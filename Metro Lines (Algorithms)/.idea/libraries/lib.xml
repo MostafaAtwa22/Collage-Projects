@@ -4,7 +4,17 @@
       <root url="file://C:/javafx/lib" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://C:/javafx/lib/javafx.controls.jar!/" />
+      <root url="jar://C:/javafx/lib/javafx-swt.jar!/" />
+      <root url="jar://C:/javafx/lib/javafx.fxml.jar!/" />
+      <root url="jar://C:/javafx/lib/javafx.base.jar!/" />
+      <root url="jar://C:/javafx/lib/javafx.graphics.jar!/" />
+      <root url="jar://C:/javafx/lib/javafx.media.jar!/" />
+      <root url="jar://C:/javafx/lib/javafx.swing.jar!/" />
+      <root url="jar://C:/javafx/lib/javafx.web.jar!/" />
+      <root url="jar://C:/javafx/lib/javafx-swt.jar!/" />
+    </SOURCES>
     <jarDirectory url="file://C:/javafx/lib" recursive="false" />
   </library>
 </component>

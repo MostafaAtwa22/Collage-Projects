@@ -1,0 +1,32 @@
+--------- INITHIALIZATION---------
+i = 0;    // addi s0 zero 0; 
+j = 0;    // addi s1 zero 0;
+n = 6;    // addi s2 zero 6;
+*a = 4;   // addi s3 zero 4;
+tmp = 20; // addi t0 zero 20;
+----------------------------------
+while(i < n)
+{                       // L2 : slt t1 s0 s2; beq zero t1 L1;
+    a[i] = tmp;        // addr s4 s3 s0;sw t0 0(s4);
+    tmp = tmp - 1;    // subi t0 t0 1;
+    i = i + 1;        // addi s0 s0 4;
+}                     // j L2
+                    
+i = 0;              // L1 : addi s0 zero 0;
+while(i < n)
+{                 // L7 : slt t1 s0 s2; beq zero t1 L3;
+    j = i + 1;                // addi s1 s0 4;
+    while(j < n) // L6 : slt t1 s1 s2; beq zero t1 L4;
+    {             
+        if(a[j] < a[i])  // addr t2 s3 s1; addr t3 s3 s0; lw s4 0(t2); lw s5 0(t3); slt t1 s4 s5; beq zero t1 L5; 
+        {   
+            tmp = a[j];     // addr t0 zero s4;
+            a[j] = a[i];    // addr s4 zero s5;
+            a[i] = tmp;     // addr s5 zero t0;
+                            // sw s4 0(t2); sw s5 0(t3);
+        }                   
+        j = j + 1;           // L5 : addi s1 s1 4;
+    }                       // j L6
+    i = i + 1;              // L4 addi s0 s0 4;
+}                           // j L7;
+// L3 -------------------

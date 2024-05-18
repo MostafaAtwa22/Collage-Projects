@@ -1,0 +1,428 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+Ealu
+Z0 w1715679357
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dD:/Studying/Digital design/digital_design_projects/mips32
+Z5 8D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/ALU/ALU.vhd
+Z6 FD:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/ALU/ALU.vhd
+l0
+L6
+VVTWBmVXHaS5_iV8E`8jEh2
+!s100 D<B05SU0J@S]GTU14U[380
+Z7 OV;C;10.5b;63
+33
+Z8 !s110 1715704843
+!i10b 1
+Z9 !s108 1715704843.000000
+Z10 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/ALU/ALU.vhd|
+Z11 !s107 D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/ALU/ALU.vhd|
+!i113 1
+Z12 o-work work -2008 -explicit
+Z13 tExplicit 1 NoCoverage 1 CvgOpt 0
+Artl
+R1
+R2
+R3
+Z14 DEx4 work 3 alu 0 22 VTWBmVXHaS5_iV8E`8jEh2
+l21
+L19
+VfclZfKIbjDfIZ;:Pc;HI83
+!s100 @l0z9LBm0S4j?E@gaG]o50
+R7
+33
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ealu_cont
+Z15 w1715679478
+R1
+R2
+R3
+R4
+Z16 8D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/controllers/alu_cont.vhd
+Z17 FD:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/controllers/alu_cont.vhd
+l0
+L4
+V67In:zOOIBl1HA0S]nnj72
+!s100 Z3X0FbZ?6<]6I@?[cMJ>41
+R7
+33
+Z18 !s110 1715704844
+!i10b 1
+Z19 !s108 1715704844.000000
+Z20 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/controllers/alu_cont.vhd|
+Z21 !s107 D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/controllers/alu_cont.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+Z22 DEx4 work 8 alu_cont 0 22 67In:zOOIBl1HA0S]nnj72
+l12
+L11
+VnXLz464aJ;:hLRekTJ[H22
+!s100 =z4f[LDEU4dV6e>oMF8;e0
+R7
+33
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R12
+R13
+Edata_mem
+Z23 w1715605782
+R1
+R2
+R3
+R4
+Z24 8D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/data_mem/data_mem.vhd
+Z25 FD:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/data_mem/data_mem.vhd
+l0
+L4
+VBK4>WA`9oEj6a;<Pe4ULS3
+!s100 `mjBbSN]W<<EH4aiL7ZWX1
+R7
+33
+R18
+!i10b 1
+R19
+Z26 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/data_mem/data_mem.vhd|
+Z27 !s107 D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/data_mem/data_mem.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+Z28 DEx4 work 8 data_mem 0 22 BK4>WA`9oEj6a;<Pe4ULS3
+l38
+L18
+VZ2CCO?KFY>KjkBF34acll2
+!s100 3nhhOg1@SF9>c^6gTb5M@2
+R7
+33
+R18
+!i10b 1
+R19
+R26
+R27
+!i113 1
+R12
+R13
+Einst_mem
+Z29 w1715704820
+Z30 DPx4 work 8 inst_pck 0 22 mT5TGW<^o>FQ`C@W6?Eb`3
+R1
+R2
+R3
+R4
+Z31 8D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/inst_mem/inst_mem.vhd
+Z32 FD:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/inst_mem/inst_mem.vhd
+l0
+L5
+VzNY?ZL0736i<4WCcL_jM00
+!s100 =AK=[f?nS9gGcGSfDKU`81
+R7
+33
+R8
+!i10b 1
+R9
+Z33 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/inst_mem/inst_mem.vhd|
+Z34 !s107 D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/inst_mem/inst_mem.vhd|
+!i113 1
+R12
+R13
+Artl
+R30
+R1
+R2
+R3
+Z35 DEx4 work 8 inst_mem 0 22 zNY?ZL0736i<4WCcL_jM00
+l54
+L16
+V8HYlTXA=ck_C0o?UllznI3
+!s100 G[lUSWI_Sm:ijWR=iNWjA2
+R7
+33
+R8
+!i10b 1
+R9
+R33
+R34
+!i113 1
+R12
+R13
+Pinst_pck
+R1
+R2
+R3
+Z36 w1715679165
+R4
+Z37 8D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/inst_mem/inst_pck.vhd
+Z38 FD:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/inst_mem/inst_pck.vhd
+l0
+L69
+VmT5TGW<^o>FQ`C@W6?Eb`3
+!s100 cRWhB2<b:]BSU:_bFmeTK3
+R7
+33
+b1
+R8
+!i10b 1
+R9
+Z39 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/inst_mem/inst_pck.vhd|
+Z40 !s107 D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/inst_mem/inst_pck.vhd|
+!i113 1
+R12
+R13
+Bbody
+R30
+R1
+R2
+R3
+l0
+L152
+VYC471WJm70;FBcFV8?n[51
+!s100 gO;d`;VeM7]lC0lg1QGVe0
+R7
+33
+R8
+!i10b 1
+R9
+R39
+R40
+!i113 1
+R12
+R13
+Emain_control
+Z41 w1715679782
+R1
+R2
+R3
+R4
+Z42 8D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/controllers/main_cont.vhd
+Z43 FD:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/controllers/main_cont.vhd
+l0
+L19
+VJC@f;H_4MWI4K:fUZMX7Q0
+!s100 [SJL=^WjUn6ZUiVT`Q7eQ0
+R7
+33
+R18
+!i10b 1
+R19
+Z44 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/controllers/main_cont.vhd|
+Z45 !s107 D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/controllers/main_cont.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+Z46 DEx4 work 12 main_control 0 22 JC@f;H_4MWI4K:fUZMX7Q0
+l27
+L26
+VJZ^IX<fgP:4GHlgFJ>gd43
+!s100 j_QGdj:>0DWX58c5KT]eY0
+R7
+33
+R18
+!i10b 1
+R19
+R44
+R45
+!i113 1
+R12
+R13
+Emips_tb
+Z47 w1715606134
+R1
+R2
+R3
+R4
+Z48 8D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/sim/mips_tb.vhd
+Z49 FD:/Studying/Digital design/digital_design_projects/mips32/single_cycle/sim/mips_tb.vhd
+l0
+L5
+Vd`le9B:XHLe:K;5H8n2??2
+!s100 a;PN?MA`kJO:Sn6Y7WM7f0
+R7
+33
+R18
+!i10b 1
+R19
+Z50 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/sim/mips_tb.vhd|
+Z51 !s107 D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/sim/mips_tb.vhd|
+!i113 1
+R12
+R13
+Artl
+R28
+R22
+Z52 DEx4 work 11 sign_extend 0 22 3MUnOTVP_5AO9ag;oCDZk3
+Z53 DEx4 work 8 reg_file 0 22 XPJYOCM02[UL]jZoGd<>32
+R46
+R30
+R35
+Z54 DEx4 work 3 mux 0 22 NUW8KKdUcF2=f[TFGDYYc2
+R14
+R1
+R2
+R3
+Z55 DEx4 work 7 mips_tb 0 22 d`le9B:XHLe:K;5H8n2??2
+l77
+L8
+Z56 V9<Ah]ecYO2_mV>gmD75_[1
+Z57 !s100 :M`:2FXll3WgUO^4CaY[O1
+R7
+33
+R18
+!i10b 1
+R19
+R50
+R51
+!i113 1
+R12
+R13
+Emux
+Z58 w1714807781
+R2
+R3
+R4
+Z59 8D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/mux/mux.vhd
+Z60 FD:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/mux/mux.vhd
+l0
+L5
+VNUW8KKdUcF2=f[TFGDYYc2
+!s100 YWU=?10042EfQVfhP;2Ag1
+R7
+33
+R8
+!i10b 1
+R9
+Z61 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/mux/mux.vhd|
+Z62 !s107 D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/mux/mux.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R54
+l17
+L16
+V5;@B@2>4Y5OMSn89CMY[51
+!s100 ?ZGUOb5g?Q2ooPmf;]SJ62
+R7
+33
+R8
+!i10b 1
+R9
+R61
+R62
+!i113 1
+R12
+R13
+Ereg_file
+Z63 w1715188249
+R1
+R2
+R3
+R4
+Z64 8D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/reg_file/reg_file.vhd
+Z65 FD:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/reg_file/reg_file.vhd
+l0
+L6
+VXPJYOCM02[UL]jZoGd<>32
+!s100 PXO[In<@?iKHcTbTJS<^53
+R7
+33
+R8
+!i10b 1
+R9
+Z66 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/reg_file/reg_file.vhd|
+Z67 !s107 D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/reg_file/reg_file.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+R53
+l59
+L23
+VTmmPYg>MNVob<YPQPQ^GY1
+!s100 TU0KBlW4]PU7aRXXFUAN[3
+R7
+33
+R8
+!i10b 1
+R9
+R66
+R67
+!i113 1
+R12
+R13
+Esign_extend
+Z68 w1715099010
+R2
+R3
+R4
+Z69 8D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/sign_extend/sign_extend.vhd
+Z70 FD:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/sign_extend/sign_extend.vhd
+l0
+L5
+V3MUnOTVP_5AO9ag;oCDZk3
+!s100 h0@O`<Te]67X6`bE7R;ML0
+R7
+33
+R8
+!i10b 1
+R9
+Z71 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/sign_extend/sign_extend.vhd|
+Z72 !s107 D:/Studying/Digital design/digital_design_projects/mips32/single_cycle/rtl/components/sign_extend/sign_extend.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+R52
+l17
+L16
+VBnDKOHJD_fEdjCnCNeoI62
+!s100 MmnPeBb;kiC<C@_olC5G]1
+R7
+33
+R8
+!i10b 1
+R9
+R71
+R72
+!i113 1
+R12
+R13

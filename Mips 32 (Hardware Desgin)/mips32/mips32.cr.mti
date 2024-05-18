@@ -1,0 +1,51 @@
+{D:/programming/Collage Projects/Mips 32 (Hardware Desgin)/mips32/single_cycle/sim/mips_tb.vhd} {0 {vcom -work work -2008 -explicit -stats=none {D:/programming/Collage Projects/Mips 32 (Hardware Desgin)/mips32/single_cycle/sim/mips_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+** Error: (vcom-1598) Library "std" not found.
+** Note: VHDL Compiler exiting
+
+} {3.0 4.0} {}} {D:/programming/Collage Projects/Mips 32 (Hardware Desgin)/mips32/single_cycle/rtl/components/reg_file/reg_file.vhd} {0 {vcom -work work -2008 -explicit -stats=none {D:/programming/Collage Projects/Mips 32 (Hardware Desgin)/mips32/single_cycle/rtl/components/reg_file/reg_file.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+** Error: (vcom-1598) Library "std" not found.
+** Note: VHDL Compiler exiting
+
+} {3.0 4.0} {}} {D:/programming/Collage Projects/Mips 32 (Hardware Desgin)/mips32/single_cycle/rtl/components/inst_mem/inst_pck.vhd} {0 {vcom -work work -2008 -explicit -stats=none {D:/programming/Collage Projects/Mips 32 (Hardware Desgin)/mips32/single_cycle/rtl/components/inst_mem/inst_pck.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+** Error: (vcom-1598) Library "std" not found.
+** Note: VHDL Compiler exiting
+
+} {3.0 4.0} {}} {D:/programming/Collage Projects/Mips 32 (Hardware Desgin)/mips32/single_cycle/rtl/components/controllers/main_cont.vhd} {0 {vcom -work work -2008 -explicit -stats=none {D:/programming/Collage Projects/Mips 32 (Hardware Desgin)/mips32/single_cycle/rtl/components/controllers/main_cont.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+** Error: (vcom-1598) Library "std" not found.
+** Note: VHDL Compiler exiting
+
+} {3.0 4.0} {}} {D:/programming/Collage Projects/Mips 32 (Hardware Desgin)/mips32/single_cycle/rtl/components/sign_extend/sign_extend.vhd} {0 {vcom -work work -2008 -explicit -stats=none {D:/programming/Collage Projects/Mips 32 (Hardware Desgin)/mips32/single_cycle/rtl/components/sign_extend/sign_extend.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+** Error: (vcom-1598) Library "std" not found.
+** Note: VHDL Compiler exiting
+
+} {3.0 4.0} {}} {D:/programming/Collage Projects/Mips 32 (Hardware Desgin)/mips32/single_cycle/rtl/components/mux/mux.vhd} {0 {vcom -work work -2008 -explicit -stats=none {D:/programming/Collage Projects/Mips 32 (Hardware Desgin)/mips32/single_cycle/rtl/components/mux/mux.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+** Error: (vcom-1598) Library "std" not found.
+** Note: VHDL Compiler exiting
+
+} {3.0 4.0} {}} {D:/programming/Collage Projects/Mips 32 (Hardware Desgin)/mips32/single_cycle/rtl/components/inst_mem/inst_mem.vhd} {0 {vcom -work work -2008 -explicit -stats=none {D:/programming/Collage Projects/Mips 32 (Hardware Desgin)/mips32/single_cycle/rtl/components/inst_mem/inst_mem.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+** Error: (vcom-1598) Library "std" not found.
+** Note: VHDL Compiler exiting
+
+} {3.0 4.0} {}} {D:/programming/Collage Projects/Mips 32 (Hardware Desgin)/mips32/single_cycle/rtl/components/data_mem/data_mem.vhd} {0 {vcom -work work -2008 -explicit -stats=none {D:/programming/Collage Projects/Mips 32 (Hardware Desgin)/mips32/single_cycle/rtl/components/data_mem/data_mem.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+** Error: (vcom-1598) Library "std" not found.
+** Note: VHDL Compiler exiting
+
+} {3.0 4.0} {}} {D:/programming/Collage Projects/Mips 32 (Hardware Desgin)/mips32/single_cycle/rtl/components/controllers/alu_cont.vhd} {0 {vcom -work work -2008 -explicit -stats=none {D:/programming/Collage Projects/Mips 32 (Hardware Desgin)/mips32/single_cycle/rtl/components/controllers/alu_cont.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+** Error: (vcom-1598) Library "std" not found.
+** Note: VHDL Compiler exiting
+
+} {3.0 4.0} {}} {D:/programming/Collage Projects/Mips 32 (Hardware Desgin)/mips32/single_cycle/rtl/components/ALU/ALU.vhd} {0 {vcom -work work -2008 -explicit -stats=none {D:/programming/Collage Projects/Mips 32 (Hardware Desgin)/mips32/single_cycle/rtl/components/ALU/ALU.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+** Error: (vcom-1598) Library "std" not found.
+** Note: VHDL Compiler exiting
+
+} {3.0 4.0} {}}
