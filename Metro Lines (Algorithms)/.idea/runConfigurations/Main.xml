@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Main" type="Application" factoryName="Application" singleton="false">
+    <option name="MAIN_CLASS_NAME" value="App" />
+    <module name="Metro Lines (Algorithms)" />
+    <option name="VM_PARAMETERS" value="--module-path &quot;C:\javafx\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+    <method v="2" />
+  </configuration>
+</component>
