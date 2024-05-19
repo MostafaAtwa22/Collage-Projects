@@ -15,7 +15,6 @@ import javafx.stage.Stage;
 import javafx.util.Pair;
 import java.util.List;
 import javax.management.ImmutableDescriptor;
-
 public class App extends Application {
     private MetroGraph metroGraph;
     private MetroGraphBFS metroGraphBFS;
