@@ -1,1 +1,5 @@
-# REPO FOR PRACTICING IC_DESIGN
+# Idea 
+Mips 32 processesor
+
+# Language
+VHDL
